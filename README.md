@@ -11,7 +11,7 @@ This repository contains a collection of programming exercises that I've solved 
 ## About
 
 This is a repository for the exercises done from the exercism page. 
-https://exercism.org/profiles/Renndr
+- https://exercism.org/profiles/Renndr
 
 ## Getting Started
 
@@ -19,4 +19,4 @@ You can use my solutions or make comments on how to improve the code.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/exercises.git
+git clone https://github.com/Renndr/Exercism.git
