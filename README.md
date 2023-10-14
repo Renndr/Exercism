@@ -7,7 +7,7 @@ This repository contains a collection of programming exercises that I've solved 
 - [Java]
 - [Python]
 - [JavaScript]
-- 
+  
 ## About
 
 This is a repository for the exercises done from the exercism page. 
