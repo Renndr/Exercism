@@ -11,7 +11,7 @@ This repository contains a collection of programming exercises that I've solved 
 ## About
 
 This is a repository for the exercises done from the exercism page. 
-https://exercism.org/
+https://exercism.org/profiles/Renndr
 
 ## Getting Started
 
