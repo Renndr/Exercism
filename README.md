@@ -4,9 +4,9 @@ This repository contains a collection of programming exercises that I've solved 
 
 ## Table of Contents
 
-- [Java]
-- [Python]
-- [JavaScript]
+- [Java](#Java)
+- [Python](#Python)
+- [JavaScript](#JavaScript)
   
 ## About
 
