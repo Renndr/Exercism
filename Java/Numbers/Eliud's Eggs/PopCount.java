@@ -4,7 +4,6 @@ public class PopCount {
         while(number > 0) {
             count += number % 2 == 1 ? 1 : 0;
             number /= 2;
-            System.out.println(number);
         }
         return count;
     }
